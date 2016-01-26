@@ -1,22 +1,22 @@
 {
   "name": "spectre-test-runner",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Test runner for Spectre style test definitions in casperjs and phantomjs",
-  "repository" : {
-	"type" : "git",
-	"url" : "https://github.com/Varedis/spectre-test-runner"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Varedis/spectre-test-runner"
   },
   "main": "bin/index.js",
   "scripts": {
     "test": "mocha"
   },
   "keywords": [
-	"test",
-	"test runner",
-	"frontend",
-	"phantomjs",
-	"casperjs",
-	"spectre"
+    "test",
+    "test runner",
+    "frontend",
+    "phantomjs",
+    "casperjs",
+    "spectre"
   ],
   "author": "Rob Scott (rob.scott@developmentr.com)",
   "license": "ISC",
@@ -27,8 +27,8 @@
     "sort-by": "^1.1.1"
   },
   "devDependencies": {
-	"chai": "^3.4.1",
-	"mocha": "^2.3.4"
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
   },
   "jshintConfig": {
     "esnext": true,
