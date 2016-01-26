@@ -2,6 +2,10 @@
   "name": "spectre-test-runner",
   "version": "0.0.1",
   "description": "Test runner for Spectre style test definitions in casperjs and phantomjs",
+  "repository" : {
+	"type" : "git",
+	"url" : "https://github.com/Varedis/spectre-test-runner"
+  },
   "main": "bin/index.js",
   "scripts": {
     "test": "mocha"
@@ -23,8 +27,8 @@
     "sort-by": "^1.1.1"
   },
   "devDependencies": {
-	  "chai": "^3.4.1",
-	  "mocha": "^2.3.4"
+	"chai": "^3.4.1",
+	"mocha": "^2.3.4"
   },
   "jshintConfig": {
     "esnext": true,
