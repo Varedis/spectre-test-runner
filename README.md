@@ -53,6 +53,16 @@ In order for the tests to run successfully, you need to globally install the fol
 
 If you are having trouble, you may be missing prerequisites for either PhantomJS or CasperJS, you can find a list of CasperJS prerequisites [here](http://docs.casperjs.org/en/latest/installation.html#prerequisites)
 
+# Installation
+
+	npm install -g spectre-test-runner
+
+# Usage
+
+Running a test is easy, simply run the following command with the path to the spec file that you want to run:
+
+	spectre spec/wikipedia.spec.json
+
 # TODO list
 
 The following list is in the priority order of things that are still on the the TODO list:
