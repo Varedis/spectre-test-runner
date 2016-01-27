@@ -1,6 +1,6 @@
 {
   "name": "spectre-test-runner",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Test runner for Spectre style test definitions in casperjs and phantomjs",
   "repository": {
     "type": "git",
