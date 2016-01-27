@@ -48,7 +48,7 @@ Stay tuned to the [Spectre](https://github.com/Varedis/Spectre) repo, for a cool
 
 In order for the tests to run successfully, you need to globally install the following modules:
 
-* PhantomJS `npm install -g phantomjs`
+* PhantomJS `npm install -g phantomjs@^1.9`
 * CasperJS `npm install -g casperjs`
 
 If you are having trouble, you may be missing prerequisites for either PhantomJS or CasperJS, you can find a list of CasperJS prerequisites [here](http://docs.casperjs.org/en/latest/installation.html#prerequisites)
